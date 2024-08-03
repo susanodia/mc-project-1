@@ -55,7 +55,7 @@ The contract manages a single item’s quantity and includes functions to `incre
 
 ## Authors
 
-Susan Odia
+Susan Odianosen
 [@metacraftersio](https://twitter.com/metacraftersio)
 
 
